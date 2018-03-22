@@ -1,0 +1,5 @@
+hello,this is branch test.
+
+git rm和rm区别：
+用git rm删除文件，同时会将这个删除操作记录下来；
+用 rm删除文件，仅仅是删除了物理文件，没有将其从git记录中删除。
